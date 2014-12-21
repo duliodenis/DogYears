@@ -4,7 +4,7 @@ Dog Years
 
 A simple iOS tutorial app written in Swift that calculates a dog's age in dog years.
 
-![](https://raw.githubusercontent.com/duliodenis/DogYears/master/Art/dogYears.png)
+![](https://raw.githubusercontent.com/duliodenis/DogYears/master/Art/DogYears-In-Device.png)
 
 ## Support or Contact
 Visit [ddApps.co](http://ddapps.co) to see more.
